@@ -1,3 +1,27 @@
 [submodule "reef_msgs"]
 	path = reef_msgs
 	url = https://github.com/uf-reef-avl/reef_msgs
+[submodule "torque_flight"]
+	path = torque_flight
+	url = https://github.com/uf-reef-avl/torque_flight
+[submodule "vo-sim"]
+	path = vo-sim
+	url = https://github.com/uf-reef-avl/vo-sim
+[submodule "reef_adaptive_control"]
+	path = reef_adaptive_control
+	url = https://github.com/uf-reef-avl/reef_adaptive_control
+[submodule "setpoint_generator"]
+	path = setpoint_generator
+	url = https://github.com/uf-reef-avl/setpoint_generator
+[submodule "reef_teleop"]
+	path = reef_teleop
+	url = https://github.com/uf-reef-avl/reef_teleop
+[submodule "reef2_truth"]
+	path = reef2_truth
+	url = https://github.com/uf-reef-avl/reef2_truth
+[submodule "sim_helper"]
+	path = sim_helper
+	url = https://github.com/uf-reef-avl/sim_helper
+[submodule "reef_estimator_2"]
+	path = reef_estimator_2
+	url = https://github.com/uf-reef-avl/reef_estimator_2

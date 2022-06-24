@@ -1,0 +1,3 @@
+[submodule "reef_msgs"]
+	path = reef_msgs
+	url = https://github.com/uf-reef-avl/reef_msgs
